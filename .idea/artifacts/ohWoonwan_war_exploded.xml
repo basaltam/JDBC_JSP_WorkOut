@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ohWoonwan:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ohWoonwan_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ohWoonwan" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.21" />
+          <element id="library" level="project" name="servlet-api" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ohWoonwan/web/Web" />
+    </root>
+  </artifact>
+</component>
