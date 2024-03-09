@@ -8,7 +8,6 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="mysql-connector-java-8.0.21" />
-          <element id="library" level="project" name="servlet-api" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="ohWoonwan/web/Web" />

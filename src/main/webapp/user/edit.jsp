@@ -99,7 +99,7 @@
       <br>
       <button type="submit">수정 완료</button>
       <br>
-      <button>나가기</button>
+      <button onclick="history.back()">나가기</button>
     </form>
   </div>
 </div>
